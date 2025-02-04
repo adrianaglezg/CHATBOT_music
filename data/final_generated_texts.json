@@ -1,0 +1,1202 @@
+[
+    {
+        "mood_1": "Weightlessness",
+        "text_1": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with \"what ifs\" and worst-case scenarios.  A low, throbbing bassline would capture that feeling of unease perfectly, maybe with high-pitched strings weaving in and out, mirroring the chaotic thoughts.  It needs to be fast, frantic even, but with a driving rhythm to keep the anxiety from overwhelming everything.  I need something to ground me, but something that acknowledges this feeling.\n"
+    },
+    {
+        "mood_2": "Insecurity",
+        "text_2": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like someone's squeezing the air out of me.  Everything feels urgent, every task a looming mountain.  I just need something to calm the storm inside, something slow and repetitive, maybe with a droning bass to ground me.  A low, soothing cello would be perfect.\n"
+    },
+    {
+        "mood_3": "Love",
+        "text_3": "Overwhelmed.  A cacophony of noise in my head, a frantic rhythm that won't slow down.  I need music to match – something chaotic but ultimately resolving, maybe a crescendo into a quiet, peaceful ending.  Please, something to calm this storm.\n"
+    },
+    {
+        "mood_4": "Inspiration",
+        "text_4": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Everything feels urgent and chaotic, a million thoughts racing at once. I can't seem to focus,  I need something to slow my heart rate, maybe slow, ambient music with a repetitive, calming rhythm.\n"
+    },
+    {
+        "mood_5": "Hatred",
+        "text_5": "Overwhelmed.  A cacophony of thoughts and feelings, all crashing down at once.  I need something to ground me, something slow and repetitive, maybe a drone or a simple, steady beat.  Something dark, but ultimately comforting.\n"
+    },
+    {
+        "mood_6": "Distrust",
+        "text_6": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like a swarm of buzzing insects just beneath my skin.  My heart races, even though nothing is immediately wrong.  It's a nervous energy, a frantic pulse that needs to be channeled.  I need music that's fast-paced and dissonant, maybe something atonal to match the chaos inside.\n"
+    },
+    {
+        "mood_7": "Security",
+        "text_7": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them worrying me.  My chest feels tight, like it's hard to breathe.  It's a frantic energy, a feeling of impending doom. I need music that matches this frenetic pace, something dissonant and fast, maybe with a driving percussion.\n"
+    },
+    {
+        "mood_8": "Pride",
+        "text_8": "Input (Mood: Anxious, on edge):\n\nI feel like a tightly wound spring, about to snap.  My heart races, and my thoughts are a chaotic mess.  Everything feels amplified, every noise, every movement.  I need music to calm this storm, something slow, with a repetitive, grounding rhythm and maybe some low, droning cello.\n"
+    },
+    {
+        "mood_9": "Sense of grandeur",
+        "text_9": "Overwhelmed.  A cacophony of noise in my head, a million thoughts colliding.  I need music to silence the chaos, something harsh yet cathartic, maybe industrial or even noise, fast and intense.  Please, something to break through this wall.\n"
+    },
+    {
+        "mood_10": "Anxiety",
+        "text_10": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million worries.  Every little noise makes me jump, and my heart feels like it's about to beat out of my chest.  I need something to ground me, something fast-paced but not aggressive, maybe with a driving beat but not too intense.  I need music that reflects this frantic energy but also offers a sense of control, something with a strong, steady rhythm.\n"
+    },
+    {
+        "mood_11": "Envy",
+        "text_11": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of worries and \"what ifs.\"  My chest feels tight, and I'm jittery, unable to focus on anything.  I need music to ground me—something with a steady, repetitive beat, maybe a slow tempo, but with a bright major key to lift this tension.  Something calming but not too slow, please.\n"
+    },
+    {
+        "mood_12": "Sense of grandeur",
+        "text_12": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, ready to snap at any moment.  Every little noise makes me jump, and my heart races for no reason.  I need something to calm the storm inside, maybe something slow and repetitive with a low, steady pulse.  Something ambient, maybe with some drones to help ground me.\n"
+    },
+    {
+        "mood_13": "Philosophical wonder",
+        "text_13": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each one a wave crashing over me.  My chest is tight, my mind racing, and I can't seem to catch my breath.  It's a chaotic mess, a whirlwind of anxieties.  I need music that reflects that frantic energy, maybe something fast and dissonant, but with a driving rhythm to help me push through it.\n"
+    },
+    {
+        "mood_14": "Disorientation",
+        "text_14": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts, all at once.  Everything feels heightened, like I'm waiting for something bad to happen.  My heart is pounding, and I just need to move, to release this tension.  I need music – something fast, maybe dissonant, to match the chaos in my head.\n"
+    },
+    {
+        "mood_15": "Transcendence",
+        "text_15": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind races with a million thoughts, all at once.  A low, throbbing bassline would capture this feeling, maybe something dissonant and building in intensity.  It feels like I'm trapped in a cycle, unable to escape the unease. I need something that reflects this frantic energy, but also the underlying sense of dread.\n"
+    },
+    {
+        "mood_16": "Rage",
+        "text_16": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all at once.  My chest feels tight, like I'm constantly holding my breath.  It's a nervous energy, a frantic buzzing. I need something fast and chaotic, maybe something dissonant, to match the storm inside my head.\n"
+    },
+    {
+        "mood_17": "Spiritual connection",
+        "text_17": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  My heart pounds a frantic rhythm against my ribs, making it hard to breathe. I need something to ground me, maybe something repetitive and slow, but with a driving beat underneath.  A low, steady cello would be perfect.\n"
+    },
+    {
+        "mood_18": "Evocation of memories",
+        "text_18": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  Everything feels urgent, even though nothing truly is.  It's a frantic energy I can't seem to shake.  I need music that reflects this chaos—something fast, dissonant, maybe even a little abrasive, to match the feeling.\n"
+    },
+    {
+        "mood_19": "Inspiration",
+        "text_19": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  Everything feels amplified, even the quiet ticking of the clock.  I need something to ground me, something with a steady beat but not too overwhelming. Perhaps something repetitive, a calming drone with a slow, deliberate tempo would help.\n"
+    },
+    {
+        "mood_20": "Inner peace",
+        "text_20": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of thoughts and worries.  My chest feels tight, and I'm constantly fidgeting.  I need something to ground me, something with a driving rhythm but not too harsh, maybe a repetitive melody to help calm the chaos.  Something in minor key, but with a hopeful undercurrent.\n"
+    },
+    {
+        "mood_21": "Emotional minimalism",
+        "text_21": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I just need to move, to shake this feeling off.  Maybe something fast and intense, a driving beat to match the chaos in my head; something dissonant would probably fit too. I need to release this energy somehow.\n"
+    },
+    {
+        "mood_22": "Philosophical wonder",
+        "text_22": "Overwhelmed.  A cacophony of thoughts, a tidal wave of emotions crashing over me.  I need something to ground me, something slow and repetitive, maybe a droning cello or a steady, deep pulse.  Something dark but comforting, to help me navigate this storm.\n"
+    },
+    {
+        "mood_23": "Extreme anxiety",
+        "text_23": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  My heart feels like a trapped bird, fluttering against my ribs.  It's a chaotic, uneasy feeling. I need something fast, maybe frantic, with a driving beat to match the turmoil inside – something dissonant yet strangely beautiful.\n"
+    },
+    {
+        "mood_24": "Fantasy",
+        "text_24": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million thoughts, all buzzing and chaotic.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something soothing yet powerful; maybe a slow tempo with a steady, grounding bassline.  Something dark and minor, but with a hopeful glimmer at the end.\n"
+    },
+    {
+        "mood_25": "Distrust",
+        "text_25": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Everything feels like it's speeding up, a chaotic blur of deadlines and responsibilities.  I need something to ground me, something slow and repetitive, maybe in a minor key, to help calm the storm inside.  A steady, calming rhythm would be ideal, something to help me breathe again.\n"
+    },
+    {
+        "mood_26": "Agitation",
+        "text_26": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million things, big and small.  It's a jittery energy, a nervous buzz that won't let me relax.  I need something to ground me, something with a strong, steady beat but maybe some dissonant chords to reflect the chaos.  Perhaps a faster tempo, something driving but not overwhelming.\n"
+    },
+    {
+        "mood_27": "Melancholy",
+        "text_27": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and chaotic.  A low, throbbing bassline would perfectly capture this feeling of unease, maybe with some high-pitched, dissonant strings cutting through.  The tempo needs to be fast, frantic even, reflecting the relentless energy of my anxiety.  It needs to be abrasive, something that matches the prickly feeling in my skin.\n"
+    },
+    {
+        "mood_28": "Reflection",
+        "text_28": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, none of them settling.  Everything feels amplified, sounds sharper, colors brighter, it's overwhelming. I need something to ground me, maybe a slow, repetitive beat, something calming but with a driving energy underneath.  Something dark and heavy, with a steady pulse to anchor me.\n"
+    },
+    {
+        "mood_29": "Sense of grandeur",
+        "text_29": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts, all tumbling over each other.  My heart feels like it's trapped in my throat, a constant, tight pressure.  I need something to ground me, something with a strong, steady beat, maybe a driving rhythm to match the frantic energy inside.  Perhaps something dissonant to mirror the chaos in my head, but with a resolution at the end.\n"
+    },
+    {
+        "mood_30": "Restlessness",
+        "text_30": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million things, all at once.  My heart pounds a frantic rhythm against my ribs, and I feel this constant tension in my shoulders.  It needs to be released somehow, maybe through music – something fast, dissonant, even chaotic, to mirror this feeling.  I need the catharsis of a powerful crescendo.\n"
+    },
+    {
+        "mood_31": "Emotional pain",
+        "text_31": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  A constant low hum of unease vibrates beneath my skin. I need something fast, maybe chaotic, but with a driving beat to help me channel this energy; something in a minor key would probably fit the feeling.  It needs to be intense, almost overwhelming, to match the turmoil inside.\n"
+    },
+    {
+        "mood_32": "Skepticism",
+        "text_32": "Input (Mood: Anxious, on edge):\n\nI feel like a tightly wound spring, about to snap.  Every little noise sets my teeth on edge, and my heart races for no reason.  It's exhausting trying to stay calm; I need something to ground me.  Maybe something slow and repetitive, with a dark, minor tonality, to help me feel less frantic.\n"
+    },
+    {
+        "mood_33": "Inspiration",
+        "text_33": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, each one a tiny spark of worry.  My chest feels tight, like I'm waiting for a shoe to drop.  I need something fast-paced, maybe even chaotic, but with a driving rhythm to help ground me.  Something in minor key to match the unease, but with a strong, steady beat.\n"
+    },
+    {
+        "mood_34": "Admiration",
+        "text_34": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  Everything feels heightened, on edge.  It's a chaotic feeling, like a storm brewing inside me. I need something fast-paced, maybe dissonant, to match the frantic energy – a sharp, intense cello would be perfect.\n"
+    },
+    {
+        "mood_35": "Hatred",
+        "text_35": "Overwhelmed.  It's a tidal wave of emotions crashing over me, leaving me breathless and exhausted.  I need something to ground me, something powerful yet soothing—maybe a slow, intense cello piece with a driving, almost frantic rhythm.  Something that acknowledges the chaos but offers a sense of control.\n"
+    },
+    {
+        "mood_36": "Emotional fluctuation",
+        "text_36": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart is racing, and I can't seem to focus on anything.  It's a constant low hum of dread under everything else.  I need something fast, maybe dissonant, to match the chaotic energy inside.\n"
+    },
+    {
+        "mood_37": "Happiness",
+        "text_37": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My heart is thumping a frantic rhythm against my ribs, and I just feel this overwhelming need to move, to escape.  I need music to match that frenetic energy, something fast and intense, maybe with dissonant chords to mirror the chaos inside.  A driving beat would help, something I could lose myself in.\n"
+    },
+    {
+        "mood_38": "Sadness",
+        "text_38": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all jumbled together.  It feels like a storm brewing inside, a constant low hum of unease.  I need music to help calm the chaos – something fast-paced initially, maybe then slowing down to a more peaceful resolution.  Perhaps a minor key to reflect this inner turmoil, but with a hopeful, rising melody towards the end.\n"
+    },
+    {
+        "mood_39": "Fear",
+        "text_39": "{mood: Anxious, restless}\n\nI can't seem to sit still, my mind racing with a million \"what ifs.\"  My chest feels tight, a constant low hum of unease.  I need something fast-paced, maybe even dissonant, to match the chaos inside.  Something with a driving beat and sharp, staccato notes would help me release this tension.\n"
+    },
+    {
+        "mood_40": "Intrigue",
+        "text_40": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million things, all at once.  A low, throbbing beat in my chest mirrors the relentless thoughts.  It feels like a storm brewing inside, threatening to break. I need music to ground me – something dark but driving, maybe with a heavy, distorted bassline to match the intensity.\n"
+    },
+    {
+        "mood_41": "Skepticism",
+        "text_41": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  A constant low hum of unease sits beneath it all, making me fidget.  I need something to ground me, maybe a slow, repetitive rhythm with a deep, resonant bass – something to anchor this frantic energy.  Something dark, but steady.\n"
+    },
+    {
+        "mood_42": "Disorientation",
+        "text_42": "Input (Mood: Anxious, on edge):\n\nI feel like I'm constantly waiting for the other shoe to drop, a knot of tension in my stomach.  Every little noise makes me jump, my heart races without reason.  It's exhausting, this constant state of alert.  Musically, I imagine it as frantic strings, sharp dissonances, a relentless, driving tempo – something that captures this feeling of impending doom.\n"
+    },
+    {
+        "mood_43": "Remorse",
+        "text_43": "{mood: Anxious, restless}\n\nI can't seem to sit still; my mind races with \"what ifs\" and worst-case scenarios.  A knot of tension sits in my stomach, making it hard to breathe.  I need something fast-paced to match this energy, maybe something dissonant but with a driving beat to help me process. Perhaps a chaotic, yet controlled, piece in minor key.\n"
+    },
+    {
+        "mood_44": "Extreme anxiety",
+        "text_44": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts, all buzzing around like angry bees.  Everything feels urgent, even though nothing is actually happening. I need something to ground me, something with a steady beat but not too overwhelming—maybe a slow, repetitive rhythm with a calming timbre, something to ease this frantic energy.\n"
+    },
+    {
+        "mood_45": "Desperation",
+        "text_45": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  My heart hammers against my ribs, a frantic drumbeat.  Everything feels heightened, sounds and shadows loom larger than life.  I need music to slow it down – something slow, maybe in minor key, with a steady, calming rhythm.\n"
+    },
+    {
+        "mood_46": "Ambivalence",
+        "text_46": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing, a whirlwind of worries and \"what ifs.\"  My chest feels tight, and I'm constantly fidgeting. I need something to ground me, something with a driving beat but not too harsh, maybe some repetitive, calming melodies.  Something to help me slow my breath.\n"
+    },
+    {
+        "mood_47": "Jealousy",
+        "text_47": "Input (Mood: Anxious, on edge):\n\nI feel like a tightrope walker, constantly teetering on the edge.  My heart races, and my mind races even faster, a whirlwind of \"what ifs.\"  I need something to ground me, something with a steady beat but a slightly dissonant undercurrent to reflect the unease.  Maybe a minor key, something driving but not overwhelming, with a repetitive rhythm to help me find some sense of control.\n"
+    },
+    {
+        "mood_48": "Helplessness",
+        "text_48": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with \"what ifs\" and worries.  Everything feels heightened, like I'm on edge, waiting for something to happen.  It's a frantic energy, draining and unsettling. I need music to ground me – something with a steady, driving beat, maybe minor key, but not too dark, to help me channel this nervous energy.\n"
+    },
+    {
+        "mood_49": "Resignation",
+        "text_49": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with worries, big and small, all tangled up.  Everything feels heightened, like I'm waiting for something bad to happen.  The silence is deafening, actually, a pressure cooker of thoughts.  I need something fast-paced, dissonant almost, to match the turmoil inside; maybe a frantic violin solo?\n"
+    },
+    {
+        "mood_50": "Hopelessness",
+        "text_50": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind racing with a million thoughts, all tumbling over each other.  My heart feels like a trapped bird, beating too fast against my ribs.  It's a chaotic energy, a restless storm inside. I need music that mirrors this feeling – something fast, dissonant, maybe with a driving, relentless rhythm.\n"
+    },
+    {
+        "mood_51": "Sorrow",
+        "text_51": "Input (Mood: Anxious, on edge):\n\nI feel like a wire about to snap, every little thing setting me on edge.  My heart's a frantic drum against my ribs, and my mind races with \"what ifs\".  It's a suffocating pressure, a constant hum of unease. I need something dissonant, fast, maybe even atonal, to match this feeling of impending chaos.\n"
+    },
+    {
+        "mood_52": "Motivation",
+        "text_52": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing with a thousand thoughts, all at once.  My heart pounds like a drum against my ribs, and I feel this constant, nagging tension.  I need something to ground me, something with a steady beat but maybe some dissonant notes to reflect this inner turmoil.  Perhaps a piece in minor key, a little faster tempo, but not too intense – just enough to acknowledge the anxiety without overwhelming it.\n"
+    },
+    {
+        "mood_53": "Grief",
+        "text_53": "Overwhelmed.  A cacophony of thoughts and feelings, all crashing down at once.  I need something to ground me, something slow and repetitive, maybe in a minor key, to help me process this.  A cello would be perfect, something deep and resonant.\n"
+    },
+    {
+        "mood_54": "Oneirism (dream-like state)",
+        "text_54": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My chest feels tight, and I just want to run, to escape this feeling.  It's a chaotic energy, a frantic rhythm. I need music that reflects this frantic energy, maybe something fast-paced and dissonant, but with a driving beat.\n"
+    },
+    {
+        "mood_55": "Defeat",
+        "text_55": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst from the inside.  Everything feels urgent, every task a looming mountain. I just want to disappear, to find some quiet space.  Maybe some slow, ambient music, something drone-like to help ground me, would help.\n"
+    },
+    {
+        "mood_56": "Grief",
+        "text_56": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all colliding and buzzing.  My heart beats a frantic rhythm against my ribs, a constant, unsettling drumbeat.  I need something to ground me, something soothing yet driving— maybe something in a minor key, but with a strong, steady beat to help me focus.  A cello's mournful tone might help to channel this feeling.\n"
+    },
+    {
+        "mood_57": "Loneliness",
+        "text_57": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  My heart is pounding, a constant, frantic rhythm. I feel trapped, like I'm caught in a whirlwind. I need something fast, dissonant almost, to match this chaotic feeling inside – maybe something with a driving, relentless beat.\n"
+    },
+    {
+        "mood_58": "Joy",
+        "text_58": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worst-case scenarios.  A tight knot sits in my chest, making it hard to breathe. I need something to ground me, maybe something repetitive and driving, yet calming, in a minor key with a slow tempo to help me feel centered.  Something...  to slow the frantic rhythm of my thoughts.\n"
+    },
+    {
+        "mood_59": "Sense of discovery",
+        "text_59": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each one a wave threatening to pull me under. My chest feels tight, my mind racing, a constant hum of worry.  I need something to ground me, maybe slow, repetitive rhythms with a calming, low timbre to help slow my heart rate.  Something...ambient.\n"
+    },
+    {
+        "mood_60": "Ambivalence",
+        "text_60": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all at once.  It feels like a swarm of bees buzzing around my head, making it hard to focus on anything.  I need something to ground me, maybe something with a steady, driving beat, but not too intense. Something repetitive, perhaps, to help me calm the chaos.\n"
+    },
+    {
+        "mood_61": "Horror",
+        "text_61": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all at once.  My heart pounds a frantic rhythm against my ribs, and I feel trapped in this restless energy.  I need something to ground me, maybe something slow and repetitive, yet powerful – a deep cello perhaps, to anchor this feeling.  Something that can help slow down the frantic tempo in my head.\n"
+    },
+    {
+        "mood_62": "Sorrow",
+        "text_62": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my skin.  Thoughts race, a chaotic symphony of worries.  I need something to ground me, something slow and repetitive, maybe in a minor key, to calm the storm inside.  Something with a steady, comforting beat.\n"
+    },
+    {
+        "mood_63": "Inner peace",
+        "text_63": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me harder than the last. My chest is tight, my breath shallow, and my mind races with worries.  I need something to ground me, something slow and repetitive, maybe a droning cello with a steady, calming rhythm to help me breathe again.\n"
+    },
+    {
+        "mood_64": "Desperation",
+        "text_64": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races, jumping from one worry to the next.  A constant low hum of unease vibrates through me, making it hard to focus on anything. I need something to ground me, maybe something repetitive and slightly melancholic but with a driving beat.  Something intense but not overwhelming.\n"
+    },
+    {
+        "mood_65": "Helplessness",
+        "text_65": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me with a new worry.  My chest is tight, my mind racing – a chaotic symphony of stress. I need something to ground me, something slow and repetitive, maybe in a minor key, to calm this storm within.  Something with a steady pulse, but not too loud, please.\n"
+    },
+    {
+        "mood_66": "Emotional vertigo",
+        "text_66": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  A nervous energy pulses beneath my skin, making it hard to breathe.  I need something to ground me, something with a steady beat but also a sense of urgency.  Perhaps a driving rhythm and a minor key would capture this feeling of restless anxiety.\n"
+    },
+    {
+        "mood_67": "Caution",
+        "text_67": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  My heart beats too fast, a frantic drum against my ribs. I need something to ground me, something to calm this storm inside. Maybe a slow, repetitive melody with a calming, low timbre would help.\n"
+    },
+    {
+        "mood_68": "Calmness",
+        "text_68": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  A tight feeling in my chest makes it hard to breathe, and I feel like I'm on the verge of something bad happening.  Musically, I need something fast-paced, maybe dissonant, to reflect this chaotic energy but also something that will eventually resolve itself, finding a sense of calm amidst the storm. I need a release.\n"
+    },
+    {
+        "mood_69": "Enthusiasm",
+        "text_69": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a thousand thoughts, all jumbled and chaotic.  My heart beats like a drum solo, a frantic rhythm I can’t control.  I need something to ground me, something with a steady beat, maybe a minor key to reflect this unease.  Perhaps a slow build-up that mirrors the creeping anxiety.\n"
+    },
+    {
+        "mood_70": "Confusion",
+        "text_70": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  Every little noise makes me jump, and my mind races with \"what ifs\".  I need something to ground me, something with a steady beat but not too loud, maybe a low cello or something.  Something repetitive, but with a gradual build would help.\n"
+    },
+    {
+        "mood_71": "Resignation",
+        "text_71": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, all jumbled and chaotic.  My heart pounds, a frantic drumbeat against my ribs. I need something to ground me, something with a steady pulse but also a driving energy, maybe a repetitive beat to help me focus.  Something intense, but not overwhelming; maybe a minor key to reflect the anxiety, but with a driving rhythm to push through it.\n"
+    },
+    {
+        "mood_72": "Anguish",
+        "text_72": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, big and small.  Everything feels urgent, even though nothing is particularly pressing.  It's a jittery energy that won't let me rest. I need something chaotic yet controlled musically; fast tempo, sharp staccato notes, but in a minor key to reflect the unease.\n"
+    },
+    {
+        "mood_73": "Emotional vertigo",
+        "text_73": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races, jumping from one thought to another.  A low, throbbing bassline would capture the unease, maybe a frantic violin melody on top.  It needs to be fast, a relentless rhythm that mirrors this feeling of being trapped.  Something dissonant, but with a hint of hope buried within the chaos.\n"
+    },
+    {
+        "mood_74": "Reflection",
+        "text_74": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a thousand worries, big and small.  My chest feels tight, and I'm constantly fidgeting.  I need something to ground me, something with a driving beat but not too harsh, maybe something in a minor key to reflect this unease.  Perhaps a repetitive rhythm could help me find a sense of control amidst the chaos.\n"
+    },
+    {
+        "mood_75": "Panic",
+        "text_75": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My heart pounds a frantic rhythm against my ribs, and I feel this constant, low hum of unease.  I need something to ground me, maybe something with a steady beat but a slightly dissonant melody, something to match this unsettling feeling.  A slow tempo, but with a driving, almost frantic energy.\n"
+    },
+    {
+        "mood_76": "Awe",
+        "text_76": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  Everything feels amplified, sounds and sensations overwhelming me.  I need something to ground me, something repetitive but not monotonous; perhaps a steady, driving beat with a slightly melancholic melody.  Maybe something in a minor key, but with a hopeful lilt to it.\n"
+    },
+    {
+        "mood_77": "Hope",
+        "text_77": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, none of them settling.  My chest feels tight, like I'm waiting for a shoe to drop.  It's a frantic energy, a nervous hum beneath the surface. I need music to match – something fast, dissonant, maybe even a little chaotic, to release this pressure.\n"
+    },
+    {
+        "mood_78": "Calmness",
+        "text_78": "Overwhelmed.  A cacophony of thoughts, a constant, frantic rhythm in my head.  I need something to ground me, a slow, heavy beat, maybe in minor key, to help me find stillness amidst the chaos.  Something dark but beautiful, like a slow, melancholic cello.\n"
+    },
+    {
+        "mood_79": "Emotional fluctuation",
+        "text_79": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of worries and \"what ifs.\"  My heart pounds in my chest, a frantic drumbeat against my ribs. I need something to ground me, something with a steady, strong rhythm, maybe a driving beat to match the energy, but not too harsh.  Something dark and minor, but with a powerful pulse to it, to help me through.\n"
+    },
+    {
+        "mood_80": "Sadness",
+        "text_80": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million thoughts, each one a tiny worry that keeps growing.  My heart pounds like a drum against my ribs, a frantic rhythm I can't seem to slow.  It feels like I'm trapped in a whirlwind of tension, desperate for some release.  I need music – something fast-paced, maybe dissonant, to match this feeling, but with a gradual crescendo that could lead to something calmer.\n"
+    },
+    {
+        "mood_81": "Insecurity",
+        "text_81": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, all jumbled and confusing.  A low, throbbing bassline would match the tension, maybe something dissonant and building, gradually increasing in tempo and intensity.  I need something to ground me, but also something that reflects this chaotic energy. I'm completely overwhelmed and need something to soothe the storm in my head.\n"
+    },
+    {
+        "mood_82": "Shame",
+        "text_82": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I'm on edge, waiting for something to happen, though I don't know what.  It's a frantic energy, a nervous hum beneath my skin. I need music that matches this frenetic pace – something fast, dissonant, maybe even a little harsh, to let the tension out.\n"
+    },
+    {
+        "mood_83": "Rage",
+        "text_83": "{mood: Anxious, on edge}\n\nI feel like a coiled spring, ready to snap at any moment.  My heart hammers against my ribs, a frantic drumbeat.  Everything feels amplified, sounds and movements sharper than usual. I need music to calm this; something slow, repetitive, maybe with a droning, low timbre to ground me.\n"
+    },
+    {
+        "mood_84": "Skepticism",
+        "text_84": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Thoughts race, a chaotic mess I can't seem to untangle.  Everything feels urgent, even though nothing is really happening. I need music to slow it down, something with a slow tempo, maybe minor key, to ground me.\n"
+    },
+    {
+        "mood_85": "Inspiration",
+        "text_85": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and my mind races even faster, jumping from one worry to the next.  It's a chaotic mess inside. I need music that reflects this – fast tempo, maybe dissonant chords, something to match the frantic energy.\n"
+    },
+    {
+        "mood_86": "Defeat",
+        "text_86": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a thousand thoughts, all at once.  My chest feels tight, and I just want to move, to escape this feeling.  It's a frantic energy, a nervous hum beneath the surface.  I need something fast, maybe dissonant, to match this chaotic feeling inside.\n"
+    },
+    {
+        "mood_87": "Hope",
+        "text_87": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a thousand thoughts, each one a tiny worry that builds into something huge.  My chest feels tight, like it's being squeezed.  I need music to ground me – something fast-paced but repetitive, maybe a driving beat to match the frantic energy.  Something in minor key, perhaps, to acknowledge the unease.\n"
+    },
+    {
+        "mood_88": "Distrust",
+        "text_88": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  Everything feels overwhelming, like I'm trapped in a whirlwind of worries.  I need something to ground me, something with a driving beat but not too harsh, maybe a minor key with a repetitive, almost hypnotic rhythm.  A strong, steady pulse would help.\n"
+    },
+    {
+        "mood_89": "Confusion",
+        "text_89": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all swirling together.  This feeling of unease is a constant hum beneath the surface.  I need music to help ground me – something fast-paced but with a steady beat, maybe something percussive to release this tension.  If it could be minor key, it would really capture the feeling of being overwhelmed.\n"
+    },
+    {
+        "mood_90": "Disappointment",
+        "text_90": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all tangled up.  My heart pounds like a drum solo, a frantic rhythm I can't escape.  It's like I'm trapped in a dissonant chord, sharp and jarring. I need something to soothe the chaos – perhaps slow, ambient music with a minor key to ground me.\n"
+    },
+    {
+        "mood_91": "Optimism",
+        "text_91": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Thoughts race, a chaotic symphony of worries. I can barely breathe, everything feels too much.  I need something to calm the storm, perhaps slow, ambient music with a low, steady pulse, to ground me.\n"
+    },
+    {
+        "mood_92": "Melancholy",
+        "text_92": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, ready to snap at any moment.  My heart races, and my mind races faster, jumping from one worry to the next.  Everything feels overwhelming, too loud, too bright. I need music to calm the storm – something slow, minimalist, maybe in a minor key with a very soft, repetitive rhythm.\n"
+    },
+    {
+        "mood_93": "Confusion",
+        "text_93": "Overwhelmed.  A cacophony in my head, a million thoughts battling for attention.  I need something to ground me, something slow and repetitive, maybe a drone with a deep cello to anchor the chaos.  Something dark, but not hopeless; just a recognition of the storm within.\n"
+    },
+    {
+        "mood_94": "Anguish",
+        "text_94": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of thoughts and worries.  Everything feels heightened, on edge, like I'm waiting for the other shoe to drop.  The music would need to reflect that – fast tempo, maybe dissonant chords, something sharp and unpredictable.  It needs to capture this feeling of being trapped in a heightened state.\n"
+    },
+    {
+        "mood_95": "Overwhelm",
+        "text_95": "Overwhelmed.  A cacophony of anxieties, a frantic rhythm pounding in my chest.  I need something to ground me, something slow and repetitive, maybe a droning cello to help me slow my racing thoughts.  Something dark, but ultimately calming.\n"
+    },
+    {
+        "mood_96": "Confusion",
+        "text_96": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million things, all at once.  My chest feels tight, like I'm trapped inside myself. I need something to ground me, something fast and driving, maybe with a dissonant edge to reflect the chaos.  A driving, intense rhythm would help, I think.\n"
+    },
+    {
+        "mood_97": "Delirium",
+        "text_97": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with \"what ifs\" and worries.  My heart pounds a frantic rhythm against my ribs, a constant, low hum of unease.  I need something to ground me, something with a driving beat but not too harsh, maybe a minor key to reflect the anxiety.  Something repetitive, to help me find a steady pulse amidst the chaos.\n"
+    },
+    {
+        "mood_98": "Spiritual connection",
+        "text_98": "Overwhelmed.  A cacophony of noise inside my head, urgent and demanding. I need something to cut through it, something powerful and driving, maybe a relentless, heavy beat to match the frantic pace of my thoughts.  Something that acknowledges the chaos but doesn't get lost in it.\n"
+    },
+    {
+        "mood_99": "Extreme anxiety",
+        "text_99": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million things, all at once.  It's a frantic energy, a buzzing that won't quiet. I need something to ground me, something with a strong, steady beat, maybe a driving rhythm to match the chaos inside.  Perhaps something minor, to reflect the unease.\n"
+    },
+    {
+        "mood_100": "Helplessness",
+        "text_100": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, maybe something with a steady, repetitive rhythm, but not too slow—something to match the restless energy inside.  It needs to be calming, but not sleepy; a gentle but firm hand guiding me.\n"
+    },
+    {
+        "mood_101": "Serenity",
+        "text_101": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing a mile a minute.  Everything feels like it's about to fall apart, even though I know it probably won't.  This nervous energy is eating me alive.  I need something fast-paced, maybe dissonant, to match the chaos in my head.\n"
+    },
+    {
+        "mood_102": "Emotional fluctuation",
+        "text_102": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and unclear.  My heart pounds a frantic rhythm against my ribs, a constant, unsettling drumbeat.  I need something to ground me, something with a steady beat but not too overwhelming, maybe something in a minor key but with a hopeful resolution.  It needs to be fast enough to match the energy but slow enough to calm it down.\n"
+    },
+    {
+        "mood_103": "Paranoia",
+        "text_103": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind racing with a million thoughts, each one a tiny, frantic bird.  My heart pounds a restless rhythm against my ribs.  I need something to ground me, something with a strong, steady beat but not too loud, maybe something repetitive and calming, in a minor key.  A slow tempo with a driving pulse, perhaps?\n"
+    },
+    {
+        "mood_104": "Satisfaction",
+        "text_104": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  It's a prickly feeling, like I'm constantly on edge, waiting for something to happen. I need music to ground me—something fast, but with a repetitive beat to help me focus, maybe in minor key to match my unease.  Something to help me channel this energy.\n"
+    },
+    {
+        "mood_105": "Ambivalence",
+        "text_105": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all jumbled and overwhelming.  My heart pounds like a drum against my ribs, and I feel this constant, low-level dread. I need something to ground me, maybe something slow and repetitive, but with a strong beat to match my racing pulse.  Something in minor key, perhaps?\n"
+    },
+    {
+        "mood_106": "Oneirism (dream-like state)",
+        "text_106": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  Everything feels amplified, sounds are too loud, and my heart beats too fast.  I need something to ground me, something soothing yet driving, maybe with a repetitive rhythm to help me focus.  Perhaps a piece in a minor key, but with a hopeful, building crescendo?\n"
+    },
+    {
+        "mood_107": "Overwhelm",
+        "text_107": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of thoughts and worries.  My chest feels tight, and I'm constantly fidgeting.  I need something to ground me, something with a driving beat but not too chaotic; maybe a repetitive, almost hypnotic melody?  Something dark, maybe in a minor key, to reflect the anxiety without overwhelming me.\n"
+    },
+    {
+        "mood_108": "Emptiness",
+        "text_108": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worst-case scenarios.  A tight feeling in my chest makes it hard to breathe.  I need something to ground me, maybe something with a driving beat but not too harsh, something repetitive to help me focus.  A steady, driving rhythm, perhaps in a minor key, would help.\n"
+    },
+    {
+        "mood_109": "Exaltation",
+        "text_109": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all jumbled and overwhelming.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something soothing yet energetic, maybe something with a fast tempo but a calming melody in a minor key.  It needs to be intense, but not overwhelming, if that makes sense.\n"
+    },
+    {
+        "mood_110": "Frustration",
+        "text_110": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each one a crashing wave. My chest is tight, my mind racing, and I can barely breathe.  Everything feels urgent and important, yet nothing is getting done. I need music to slow the chaos – something slow, ambient, maybe with a drone to ground me.\n"
+    },
+    {
+        "mood_111": "Expectation",
+        "text_111": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them worrying me.  My heart beats like a drum against my ribs, and I just feel this constant, low hum of unease.  I need something to ground me, maybe something repetitive but not monotonous, something with a driving rhythm but a calming timbre—like a slow, steady heartbeat.  It needs to be in a minor key, but not too dark, a soothing anxiety.\n"
+    },
+    {
+        "mood_112": "Anxiety",
+        "text_112": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  My chest feels tight, a constant pressure building.  I need something to ground me, something with a driving rhythm but not aggressive; maybe a steady beat to match my racing heart.  Something dark but hopeful, to help me ride this anxiety.\n"
+    },
+    {
+        "mood_113": "Awe",
+        "text_113": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them blurry and out of focus.  It’s a nervous energy, a tight feeling in my chest.  I need something to ground me, something fast but not aggressive, maybe a driving beat with a repetitive, almost hypnotic melody.  Something to quiet the storm inside.\n"
+    },
+    {
+        "mood_114": "Caution",
+        "text_114": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all tumbling over each other.  My heart is pounding, a frantic drum against my ribs. I need something to ground me, something with a steady beat but not too intense. Maybe something repetitive, with a slow tempo and calming timbre.\n"
+    },
+    {
+        "mood_115": "Surrealism",
+        "text_115": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million thoughts, all at once.  My chest feels tight, and I'm constantly fidgeting.  It's like a storm inside me, chaotic and unpredictable. I need music that matches this frenetic energy – fast, maybe dissonant, but with a driving rhythm to help me ground myself.\n"
+    },
+    {
+        "mood_116": "Freedom",
+        "text_116": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I just need to move, to shake it off somehow.  I need music to match this frantic energy – something fast, maybe chaotic, with sharp, dissonant notes to mirror this feeling.  A driving rhythm would help, something I can almost physically feel.\n"
+    },
+    {
+        "mood_117": "Ecstasy",
+        "text_117": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I'm on edge, constantly anticipating something bad.  I need something to ground me, something with a steady beat but not too intense, maybe a minor key with a repetitive, calming rhythm.  Something to slow my heart rate and still the storm inside.\n"
+    },
+    {
+        "mood_118": "Agitation",
+        "text_118": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Thoughts race, a chaotic jumble I can't untangle.  Everything feels urgent, even though nothing is actually happening. I need music to slow it down, something slow, maybe in minor key, with a steady, grounding beat to help me breathe.\n"
+    },
+    {
+        "mood_119": "Gratitude",
+        "text_119": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million things, all at once.  My chest feels tight, and I keep fidgeting.  I need something to ground me, something with a driving beat but not too harsh, maybe a repetitive, almost hypnotic rhythm to calm the chaos.  Something in minor key would probably help, but I don't want it to be too dark.\n"
+    },
+    {
+        "mood_120": "Shame",
+        "text_120": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind is racing, jumping from one worry to another.  A low, throbbing bass line would capture this feeling, maybe something dissonant, building slowly but relentlessly.  The tempo needs to be quick, frantic even, mirroring the chaos inside. I need something to ground me.\n"
+    },
+    {
+        "mood_121": "Fear",
+        "text_121": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  My heart beats like a drum solo, a frantic rhythm I can't control.  I need something to ground me, something with a steady beat but also a sense of urgency. Maybe a minor key, fast tempo, but with a driving, repetitive bassline to anchor me.\n"
+    },
+    {
+        "mood_122": "Ambivalence",
+        "text_122": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and I can't seem to focus on anything.  It's a constant low hum of worry, never quite loud enough to scream, but loud enough to be unnerving.  Maybe some atonal, dissonant music, fast tempo, could capture this chaotic feeling inside.\n"
+    },
+    {
+        "mood_123": "Intrigue",
+        "text_123": "Overwhelmed.  A cacophony of thoughts and anxieties, a relentless storm inside my head.  I need music to cut through it – something powerful, driving, maybe even a little angry, with a heavy, distorted bass to ground me.  It needs to be cathartic.\n"
+    },
+    {
+        "mood_124": "Restlessness",
+        "text_124": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, none of them calming.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something soothing but with a driving rhythm to match this restless energy. Perhaps a piece in minor key, fast tempo, but with a steady beat to hold onto.\n"
+    },
+    {
+        "mood_125": "Harmony",
+        "text_125": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My heart hammers against my ribs, and I feel this constant, low-level panic.  It’s like trying to hold onto sand; everything slips through my fingers. I need something fast-paced, maybe chaotic but with a driving beat to match the intensity, maybe some dissonance to mirror this feeling of unease.\n"
+    },
+    {
+        "mood_126": "Transcendence",
+        "text_126": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them making me feel overwhelmed.  This nervous energy is eating me alive; I need something to ground me.  Maybe something fast paced, but with a repetitive rhythm to help center me.  Something driving and intense, maybe in minor key, to match the feeling.\n"
+    },
+    {
+        "mood_127": "Fury",
+        "text_127": "Input (Mood: Anxious, on edge):\n\nI can't seem to settle down, my mind is racing with a thousand thoughts, all at once.  Everything feels like it's about to fall apart, a constant low hum of dread.  I need something to ground me, maybe something with a driving beat, but not too harsh, something repetitive and calming within the intensity.  Maybe a minor key, but with a hopeful resolution somewhere in the distance?\n"
+    },
+    {
+        "mood_128": "Anguish",
+        "text_128": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  My heart is hammering, and I can't seem to catch my breath. Everything feels amplified, every noise, every shadow. I need something frantic, chaotic even, maybe a fast tempo with dissonant chords to match the turmoil inside.\n"
+    },
+    {
+        "mood_129": "Desperation",
+        "text_129": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, big and small.  Everything feels amplified, every sound, every thought.  I need something to ground me, something with a steady beat but not too intense. Maybe something in minor key, but with a driving rhythm to help me push through this.\n"
+    },
+    {
+        "mood_130": "Helplessness",
+        "text_130": "Overwhelmed.  A tidal wave of emotions crashing over me, leaving me breathless and unsteady.  I need music to help me navigate this; something chaotic yet controlled, maybe a fast tempo with a driving beat, but with soaring melodies that offer a sense of hope amidst the storm.  It needs to be powerful, but not aggressive.\n"
+    },
+    {
+        "mood_131": "Inner peace",
+        "text_131": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  My heart pounds a frantic rhythm against my ribs, and I feel this constant pressure building. I need something to ground me, something with a steady beat but not too intense—maybe a slow, repetitive melody in minor key to help calm the storm inside.\n"
+    },
+    {
+        "mood_132": "Emotional pain",
+        "text_132": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  A low, throbbing bassline would capture this feeling, maybe some dissonant chords to reflect the unease.  It needs to be fast, frantic even, but with a driving rhythm that keeps pushing forward, no resolution.  I need something to match the constant, unsettling energy.\n"
+    },
+    {
+        "mood_133": "Extreme anxiety",
+        "text_133": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Thoughts are racing, a chaotic mess I can't untangle.  I need something to ground me, to slow the frantic rhythm in my head. Maybe some slow, ambient music with a calming, repetitive beat would help.\n"
+    },
+    {
+        "mood_134": "Euphoria",
+        "text_134": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  It feels like a swarm of bees buzzing in my head, a constant, low-level hum of unease.  I need something to ground me, something with a steady beat, maybe a repetitive rhythm to calm the chaos.  Something dark and minor, but not too slow, to match the restless energy.\n"
+    },
+    {
+        "mood_135": "Freedom",
+        "text_135": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  It feels like a swarm of bees in my head, buzzing with nervous energy. I need something to ground me, something with a steady beat, maybe a repetitive rhythm to calm the chaos.  Something dark but driving, please.\n"
+    },
+    {
+        "mood_136": "Resignation",
+        "text_136": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts all at once.  A low, throbbing bassline would capture this feeling, maybe something dissonant, building in intensity.  It needs to be fast, frantic even, mirroring the chaos in my head.  I need something to help me ground myself, but I can't seem to find that peace.\n"
+    },
+    {
+        "mood_137": "Exaltation",
+        "text_137": "{mood: Anxious, on edge}\n\nI feel like a tightrope walker, constantly teetering on the edge of something. My heart races, a frantic drumbeat against my ribs.  Everything feels amplified, sounds and shadows looming larger than life. I need music that reflects this unease – something fast, dissonant, maybe with a driving, relentless rhythm to match the turmoil inside.\n"
+    },
+    {
+        "mood_138": "Confidence",
+        "text_138": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them unsettling.  My heart is pounding, a frantic drum against my ribs. I need something to ground me, something with a steady beat but maybe some dissonance to match the turmoil inside.  Perhaps a driving rhythm and a minor key would help.\n"
+    },
+    {
+        "mood_139": "Satisfaction",
+        "text_139": "Input (Mood: Anxious, on edge):\n\nI feel like a tightly wound spring, ready to snap at any moment.  My heart races, and my mind is a whirlwind of \"what ifs.\"  I need something to ground me, something slow and repetitive maybe, to calm the chaos.  Perhaps a low, droning cello would help.\n"
+    },
+    {
+        "mood_140": "Fear",
+        "text_140": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  Everything feels amplified, like I'm constantly on edge, waiting for something to happen.  It’s exhausting. I need something frantic, maybe a fast tempo with dissonant chords, something that reflects this chaotic energy.\n"
+    },
+    {
+        "mood_141": "Resignation",
+        "text_141": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind races with worries, big and small, all blending together.  It's like a swarm of bees buzzing around my head, never settling. I need something to ground me, something with a steady beat but a slightly dissonant melody, maybe something minor.  A fast tempo might help channel this energy, but it can't be too harsh.\n"
+    },
+    {
+        "mood_142": "Perplexity",
+        "text_142": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with worries, big and small, all at once.  It feels like a pressure building in my chest, a constant hum of unease.  I need music to help me ground myself—something fast-paced, maybe slightly dissonant, to match the chaos.  Ideally, a driving rhythm would help me release this tension.\n"
+    },
+    {
+        "mood_143": "Exaltation",
+        "text_143": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me harder than the last. My chest is tight, my mind racing, and I can barely catch my breath.  I need something to ground me, something slow and repetitive, maybe a drone-like texture with a steady, low pulse to help calm this storm inside.\n"
+    },
+    {
+        "mood_144": "Extreme anxiety",
+        "text_144": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Everything feels urgent and chaotic, a million tiny worries spinning around in my head. I need something to ground me, something slow and repetitive, maybe in a minor key, to help calm the storm inside.  Something with a steady, calming pulse.\n"
+    },
+    {
+        "mood_145": "Fear",
+        "text_145": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind is racing, a whirlwind of half-formed thoughts and worries.  Everything feels amplified, sounds too loud, and my heart is thumping a frantic rhythm against my ribs.  I need music to ground me, something with a steady, driving beat, maybe a minor key to reflect the unease, but not too slow; I need something to match my energy, not lull me further into this.\n"
+    },
+    {
+        "mood_146": "Distress",
+        "text_146": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst.  Thoughts are racing, a chaotic mess I can't untangle.  Everything feels urgent, even though nothing really is. I need music to slow it down; something slow, repetitive, maybe with a drone to ground me.\n"
+    },
+    {
+        "mood_147": "Extreme anxiety",
+        "text_147": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  Everything feels heightened, like I'm waiting for the other shoe to drop.  A frantic energy keeps me on edge;  I need music that matches this chaotic feeling – fast tempo, dissonant chords, maybe some sharp, jarring sounds.\n"
+    },
+    {
+        "mood_148": "Pride",
+        "text_148": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, ready to snap at any moment.  My heart hammers against my ribs, and my mind races with \"what ifs.\"  Everything feels heightened, too loud, too bright. I need music to ground me – something slow, repetitive, and calming, maybe in a minor key, with a steady, predictable rhythm.\n"
+    },
+    {
+        "mood_149": "Hypnosis",
+        "text_149": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a thousand thoughts, all at once.  My chest feels tight, and I just want to run, but I don't know where to. It feels like a chaotic storm inside, a relentless drumming.  I need music to match—fast, dissonant, maybe something with a driving, relentless rhythm that reflects this inner turmoil.\n"
+    },
+    {
+        "mood_150": "Philosophical wonder",
+        "text_150": "Overwhelmed.  A chaotic storm inside, swirling emotions I can't name.  It needs music that matches – harsh, dissonant, maybe some industrial sounds to reflect the jagged edges of my anxiety.  Something to break through this suffocating pressure.\n"
+    },
+    {
+        "mood_151": "Defeat",
+        "text_151": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, creating a constant hum of unease.  It feels like a storm brewing inside, a chaotic energy threatening to spill over.  I need something to ground me, maybe a slow, repetitive rhythm, something calming yet powerful, with a deep, resonant timbre to anchor my anxiety.  A minor key would probably fit the unease.\n"
+    },
+    {
+        "mood_152": "Satisfaction",
+        "text_152": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing, a constant hum of worry under the surface.  Everything feels like it's speeding up, yet I'm stuck in place.  I need music to ground me, something with a steady beat but not too loud, maybe a repetitive melody to calm the chaos.  Something in minor key, but not too dark.\n"
+    },
+    {
+        "mood_153": "Revenge",
+        "text_153": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and my mind races faster.  It's a constant low hum of dread, a pressure building in my chest.  I need music that reflects this tension, something fast-paced and dissonant, maybe in minor key, to help me release it.\n"
+    },
+    {
+        "mood_154": "Distress",
+        "text_154": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Everything feels urgent, every task a looming deadline.  I just need something to calm the frantic energy inside, maybe slow, repetitive music in a minor key, something grounding.  It needs to be gentle but strong, like a steady hand holding me.\n"
+    },
+    {
+        "mood_155": "Freedom",
+        "text_155": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  Everything feels overwhelming, like I'm trapped in a whirlwind of \"what ifs.\" I need something to ground me, maybe a slow, repetitive rhythm with a low, steady drone to calm the chaos.  Something dark but not despairing; just a safe space in the storm.\n"
+    },
+    {
+        "mood_156": "Harmony",
+        "text_156": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with \"what ifs\" and worries.  A low hum of unease vibrates beneath my skin.  I need something to ground me, something with a driving beat but not too harsh; maybe a repetitive, almost hypnotic rhythm.  Something dark but with a pulse of hope underneath.\n"
+    },
+    {
+        "mood_157": "Freedom",
+        "text_157": "Input (Mood: Anxious, on edge):\n\nI feel like a tightrope walker, constantly teetering on the edge.  My heart races, and even small sounds feel amplified, threatening to shatter the fragile calm.  It's a feeling of impending doom, a storm brewing just beneath the surface. I need music that mirrors this – fast tempo, dissonant chords, maybe even a bit of chaotic noise to capture the feeling of unease.\n"
+    },
+    {
+        "mood_158": "Defeat",
+        "text_158": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  It feels like a pressure building inside my chest, making it hard to breathe. I need something to help me ground myself, something with a steady beat but not too intense, maybe a slow, repetitive melody.  Something calming yet driving.\n"
+    },
+    {
+        "mood_159": "Distress",
+        "text_159": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worst-case scenarios.  A constant low hum of unease vibrates beneath my skin.  I need something to ground me, something with a driving beat but not too harsh – maybe a steady, repetitive rhythm to calm the chaos.  A minor key would probably work, something dark but not too overwhelming, to match the undercurrent of dread.\n"
+    },
+    {
+        "mood_160": "Agitation",
+        "text_160": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something calming yet driving, maybe with a fast tempo but in a minor key to capture this uneasy feeling.  A repetitive, almost hypnotic rhythm might help.\n"
+    },
+    {
+        "mood_161": "Oneirism (dream-like state)",
+        "text_161": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  A tight knot of worry sits in my chest, making it hard to breathe.  I need something to ground me, something with a driving beat but not too harsh – maybe a repetitive, steady rhythm would help.  It needs to be something that pulls me out of my head and calms the chaos.\n"
+    },
+    {
+        "mood_162": "Delirium",
+        "text_162": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a thousand thoughts, all at once.  My chest feels tight, and I'm constantly fidgeting.  I need something to ground me, something with a driving beat but not too harsh, maybe a repetitive, almost hypnotic melody.  Something to help me slow my breathing and calm my racing heart.\n"
+    },
+    {
+        "mood_163": "Revenge",
+        "text_163": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my ribs.  Everything feels urgent, demanding my attention all at once.  I just need to escape this feeling;  I need music that's fast-paced but somehow soothing, something with a driving beat but gentle melodies to calm the storm inside.\n"
+    },
+    {
+        "mood_164": "Frustration",
+        "text_164": "Input (Mood: Anxious, overwhelmed):\n\nI feel like a pressure cooker about to explode.  My thoughts race, a chaotic mess I can't untangle.  Everything feels urgent, demanding immediate attention.  I need music that matches this frenetic energy, something fast and dissonant to match the storm inside.\n"
+    },
+    {
+        "mood_165": "Evocation of memories",
+        "text_165": "Overwhelmed.  A cacophony of thoughts, a tidal wave of anxieties crashing down.  I need something to ground me, something slow and repetitive, maybe in a minor key, to help me find some stillness amidst the storm.  A deep cello would be perfect, slow and mournful.\n"
+    },
+    {
+        "mood_166": "Defeat",
+        "text_166": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  It's like a swarm of bees buzzing in my head, a constant, unsettling hum. I need something to ground me, something with a driving beat but not aggressive, maybe a repetitive, hypnotic melody.  Something to calm the storm inside.\n"
+    },
+    {
+        "mood_167": "Confusion",
+        "text_167": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me with a new worry.  My chest feels tight, my mind racing, a relentless storm inside. I need something to calm the chaos, maybe slow, ambient music with a gentle, repetitive rhythm to ground me.  Something that feels vast, like the ocean, but also safe.\n"
+    },
+    {
+        "mood_168": "Emotional fluctuation",
+        "text_168": "{mood: Anxious, on edge}\n\nI can't shake this feeling of unease, like a storm brewing just beneath the surface. My heart races, and my mind races faster, jumping from one worry to the next.  It's a dissonant cacophony in my head; I need music to soothe it – something fast-paced but with a clear, repetitive structure to ground me.  Perhaps a driving beat in minor key with sharp, staccato notes.\n"
+    },
+    {
+        "mood_169": "Relaxation",
+        "text_169": "{mood: Anxious, on edge}\n\nI can't shake this feeling of unease, like something bad is about to happen. My heart races, and my thoughts are all over the place.  It’s like a storm brewing inside me, a chaotic mess of worry. I need music to calm this; something fast-paced but with a repetitive, calming rhythm to ground me.\n"
+    },
+    {
+        "mood_170": "Restlessness",
+        "text_170": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all tumbling over each other.  My heart beats like a drum solo, a frantic rhythm that won't slow.  I need something to ground me, something soothing yet intense, maybe a slow tempo with a driving bassline to help me focus.  Something dark and minor, to match the shadows in my head.\n"
+    },
+    {
+        "mood_171": "Motivation",
+        "text_171": "{mood: Anxious, on edge}\n\nI can't shake this feeling of unease, like a swarm of bees buzzing just beneath the surface of my skin. My heart races, and I feel restless, unable to settle down.  I need something to ground me, something with a steady beat but a slightly dissonant edge, maybe in a minor key.  Something intense, but not overwhelming.\n"
+    },
+    {
+        "mood_172": "Panic",
+        "text_172": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, making me feel trapped.  This constant fidgeting and unease is exhausting.  Musically, I imagine it as a frantic, dissonant piece, maybe in minor key, with a fast tempo and sharp, staccato notes.  It needs to reflect this chaotic energy.\n"
+    },
+    {
+        "mood_173": "Loneliness",
+        "text_173": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  My chest feels tight, and I'm jittery, like I'm waiting for a shoe to drop.  I need something to calm the storm inside, maybe something fast-paced but with a calming, repetitive rhythm to ground me.  Something in minor key, but not too dark; just enough to acknowledge the anxiety without succumbing to it.\n"
+    },
+    {
+        "mood_174": "Philosophical wonder",
+        "text_174": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  A low, throbbing bassline would match the tension in my chest, maybe something fast and dissonant to reflect the chaotic thoughts. I need something intense, maybe even a bit abrasive, to release this pressure.  It needs to build and build, then crash.\n"
+    },
+    {
+        "mood_175": "Existential doubt",
+        "text_175": "{mood: Anxious, restless}\n\nI can't seem to settle down; my mind races with worries, big and small.  A constant hum of unease vibrates beneath my skin.  I need something fast-paced, maybe chaotic even, but with a driving beat to channel this energy. Something sharp and dissonant, to capture the feeling of being on edge.\n"
+    },
+    {
+        "mood_176": "Fury",
+        "text_176": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Thoughts race, a chaotic jumble I can't seem to untangle. Everything feels urgent, even though nothing really is. I need music to slow it down, something slow and repetitive, maybe in a minor key, to ground me.\n"
+    },
+    {
+        "mood_177": "Disorientation",
+        "text_177": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a thousand thoughts, all at once.  My chest feels tight, and I'm jittery, unable to focus on anything. I need something to ground me, maybe a repetitive, driving beat with a low, calming drone underneath to keep the chaos at bay.  Something to pull me back to the present.\n"
+    },
+    {
+        "mood_178": "Caution",
+        "text_178": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me before I can catch my breath. My chest is tight, my mind racing, a constant hum of worry.  I need music to ground me – something slow, repetitive, maybe in a minor key, to help slow my heart rate and calm the storm inside.  Something with a steady, calming rhythm.\n"
+    },
+    {
+        "mood_179": "Remorse",
+        "text_179": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all at once.  My heart is pounding, a frantic drumbeat against my ribs.  I need something to ground me, something soothing yet driving; maybe a fast tempo, but with a calming major key.  A repetitive, almost hypnotic rhythm might help.\n"
+    },
+    {
+        "mood_180": "Optimism",
+        "text_180": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  My heart beats like a drum solo, a frantic rhythm against my ribs. I need something to ground me, maybe something slow and repetitive, calming but not too soft, to ease the tension.  Something with a steady pulse would help.\n"
+    },
+    {
+        "mood_181": "Restlessness",
+        "text_181": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  A nervous energy is buzzing beneath the surface, making it hard to focus on anything.  I need music to help ground me – something with a steady, driving beat but not too intense, maybe a minor key to reflect this unease.  It needs to be repetitive, almost hypnotic to calm the chaos.\n"
+    },
+    {
+        "mood_182": "Philosophical wonder",
+        "text_182": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Everything feels urgent, and I can't seem to focus on anything.  It's a chaotic mess inside my head, a whirlwind of worries. I need music that matches this frantic energy, something fast and dissonant, maybe in minor key, to help me process it all.\n"
+    },
+    {
+        "mood_183": "Euphoria",
+        "text_183": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all jumbled and chaotic.  My chest feels tight, and I'm on edge, constantly anticipating something bad.  It's like a storm brewing inside me. I need music that reflects this unease—something fast-paced, maybe dissonant, with a driving rhythm to match the anxiety.\n"
+    },
+    {
+        "mood_184": "Skepticism",
+        "text_184": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all jumbled together.  It's a frantic energy that won't let me rest. I need something to ground me, something fast-paced but not chaotic; maybe driving percussion and a minor key to match the unease.  A rapid tempo would reflect this feeling of being overwhelmed.\n"
+    },
+    {
+        "mood_185": "Terror",
+        "text_185": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  My body feels tense, like a coiled spring about to snap.  I need something to ground me, something with a steady beat, maybe a repetitive melody, but not too slow.  Perhaps something in minor key with a driving rhythm to help me release this energy.\n"
+    },
+    {
+        "mood_186": "Uncontrollable anger",
+        "text_186": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I keep expecting something bad to happen.  I need something to ground me, maybe something with a steady beat but not too intense; something calming, yet driving.  Perhaps a repetitive, almost hypnotic melody would help.\n"
+    },
+    {
+        "mood_187": "Oneirism (dream-like state)",
+        "text_187": "Overwhelmed.  Everything feels like it's crashing down on me all at once; a chaotic storm of anxieties and deadlines.  I need something intense, maybe a fast tempo with sharp, dissonant chords to match the pressure.  Something to help me process this before I break.\n"
+    },
+    {
+        "mood_188": "Sense of discovery",
+        "text_188": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  Everything feels urgent, even though nothing is actually happening. I'm so restless, pacing back and forth.  Music to match this would need a frantic, driving tempo, maybe something dissonant and harsh, to capture this feeling of unease.\n"
+    },
+    {
+        "mood_189": "Ecstasy",
+        "text_189": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them worrying me.  My chest feels tight, like it's hard to breathe. I need something to ground me, something fast paced but with a driving beat to match the energy, maybe a minor key to reflect the tension.  Something with a powerful, driving beat to help me release this energy.\n"
+    },
+    {
+        "mood_190": "Illusion",
+        "text_190": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all buzzing around like angry bees.  My chest feels tight, a constant pressure that won't release.  I need something to ground me, something with a driving beat but not too harsh, maybe some repetitive, calming melody.  Something to help me focus, just for a little while.\n"
+    },
+    {
+        "mood_191": "Hopelessness",
+        "text_191": "Overwhelmed.  A cacophony of thoughts, a frantic rhythm in my chest.  I need music to slow it down, something deep and resonant, maybe in a minor key, to ground me.  A slow tempo, something to anchor me to the present.\n"
+    },
+    {
+        "mood_192": "Anxiety",
+        "text_192": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Everything feels urgent and chaotic, a million things demanding my attention at once. I can't seem to catch my breath, and the silence feels louder than any noise.  I need something to calm the storm inside, maybe something slow with a steady beat, a calming timbre.\n"
+    },
+    {
+        "mood_193": "Frustration",
+        "text_193": "{mood: Anxious, on edge}\n\nI can't seem to relax, my mind races with \"what ifs\" and worst-case scenarios.  Everything feels amplified, sounds sharper, and my heart pounds relentlessly.  I need something to ground me, maybe something slow and repetitive with a calming timbre, something that can slow my racing thoughts.  A low, steady drone might help.\n"
+    },
+    {
+        "mood_194": "Extreme anxiety",
+        "text_194": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me harder than the last.  My chest feels tight, my mind racing, and I can barely breathe.  I need something to calm the storm inside, maybe something slow and ambient with a low, steady drone to ground me.  Something without harsh percussion, please.\n"
+    },
+    {
+        "mood_195": "Euphoria",
+        "text_195": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, both big and small.  My chest feels tight, like a bird trapped in a cage, beating against its bars. I need something to ground me, something with a steady beat but not too heavy. Maybe something repetitive and calming in minor key, but not slow.\n"
+    },
+    {
+        "mood_196": "Curiosity",
+        "text_196": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with a million thoughts, all jumbled and overwhelming.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something soothing yet powerful, maybe a slow cello melody with a driving, almost frantic rhythm.  It needs to be intense but not overwhelming, a release for this trapped energy.\n"
+    },
+    {
+        "mood_197": "Melancholy",
+        "text_197": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  My body feels tense, like a coiled spring about to snap.  I need something to ground me, maybe a slow, repetitive rhythm with a calming, deep timbre to soothe the chaos.  Something ambient, but with a steady pulse to anchor me.\n"
+    },
+    {
+        "mood_198": "Hopelessness",
+        "text_198": "Input (Mood: Anxious, on edge):\n\nI can't seem to relax, my mind is racing with worries, big and small, all at once.  A constant low hum of unease vibrates beneath the surface of everything. I need something to ground me, maybe a slow, repetitive rhythm with a calming timbre, something dark but not oppressive.  Something to slow the frantic pace in my head.\n"
+    },
+    {
+        "mood_199": "Grief",
+        "text_199": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing a million miles an hour.  Everything feels heightened, like I'm waiting for the other shoe to drop.  It's a frantic energy, uncomfortable and unsettling. I need something chaotic yet controlled; fast tempo, dissonant harmonies, but with a driving, repetitive beat to anchor it.\n"
+    },
+    {
+        "mood_200": "Fear",
+        "text_200": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with worries, big and small, all at once.  Everything feels heightened, sounds amplified, and my heart beats a frantic rhythm.  I need music to ground me, something slow and repetitive with a calming timbre, maybe in a minor key.  A steady beat to anchor my racing thoughts would be ideal.\n"
+    },
+    {
+        "mood_201": "Anguish",
+        "text_201": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts all at once.  My heart pounds like a drum solo, a relentless beat that won't stop.  I need something to ground me, something with a steady rhythm but a driving pulse; maybe minor key to reflect this unease.  Something intense but with a hopeful undercurrent, please.\n"
+    },
+    {
+        "mood_202": "Fear",
+        "text_202": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to another.  Everything feels urgent, even though nothing is actually wrong.  It's a chaotic energy inside me, like a storm brewing.  I need music to match – something fast, dissonant, maybe even a little harsh to release this tension.\n"
+    },
+    {
+        "mood_203": "Overwhelm",
+        "text_203": "Overwhelmed.  A cacophony of noise in my head, urgent and chaotic.  I need music to silence it, something fast and furious, maybe industrial, to match the intensity.  Something to help me process this storm.\n"
+    },
+    {
+        "mood_204": "Gratitude",
+        "text_204": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  A low, throbbing bassline in the background would reflect the unease I feel deep down.  Something fast-paced and chaotic, but with a driving rhythm to help me channel this energy.  Maybe a dissonant melody that slowly resolves into something more peaceful?\n"
+    },
+    {
+        "mood_205": "Intrigue",
+        "text_205": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with worries, big and small.  Everything feels urgent, even though nothing really is.  I need something to ground me, to calm this internal storm.  Maybe something repetitive and slow, in a minor key, with a steady, calming beat.\n"
+    },
+    {
+        "mood_206": "Distress",
+        "text_206": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million things, none of them making sense.  A low, throbbing bassline would capture this feeling, something relentless and driving, maybe with dissonant chords to mirror the chaos inside. I need something fast, something to match the frantic beat of my heart.  It needs to build and build until it explodes.\n"
+    },
+    {
+        "mood_207": "Inspiration",
+        "text_207": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all tumbling over each other.  My heart beats too fast, a frantic drum against my ribs.  I need something to ground me, something calming yet intense; perhaps a piece with a driving rhythm but a gentle, melancholic melody, played on strings.  It needs to be fast enough to match my energy but soothing enough to slow my racing thoughts.\n"
+    },
+    {
+        "mood_208": "Evocation of memories",
+        "text_208": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  My heart races, and I can't seem to focus on anything.  Everything feels amplified, every sound, every movement.  I need something fast, maybe chaotic, but with a driving beat to help me release this energy.\n"
+    },
+    {
+        "mood_209": "Optimism",
+        "text_209": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a thousand things, all at once.  My chest feels tight, a constant low hum of unease.  I need something to ground me, something fast-paced but not aggressive, maybe some driving percussion to match the energy.  Perhaps a minor key, something that acknowledges the anxiety without dwelling on it.\n"
+    },
+    {
+        "mood_210": "Delirium",
+        "text_210": "Overwhelmed.  A cacophony of noise in my head, a million things demanding attention, all at once. I need something to ground me, something slow and repetitive, maybe a drone, to help me focus.  Something in a minor key, please, something dark but comforting.\n"
+    },
+    {
+        "mood_211": "Joy",
+        "text_211": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts all at once.  My heart pounds against my ribs, a frantic drumbeat.  It feels like I'm trapped in a whirlwind, unable to find peace.  I need music that reflects this chaotic energy, something fast and dissonant, maybe with a driving, relentless rhythm.\n"
+    },
+    {
+        "mood_212": "Harmony",
+        "text_212": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  My heart pounds a frantic rhythm against my ribs, a constant, unsettling drumbeat.  I need something to ground me, maybe something slow and repetitive, but with a driving beat underneath – something dark and intense.  A minor key would probably capture this feeling perfectly.\n"
+    },
+    {
+        "mood_213": "Terror",
+        "text_213": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  It feels like a storm inside, a constant low hum of unease.  I need something to ground me, something with a steady beat but not too intense – maybe something repetitive and calming, in a minor key.  A slow tempo would help, I think, something to match the heaviness I'm feeling.\n"
+    },
+    {
+        "mood_214": "Relaxation",
+        "text_214": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  Everything feels like it's about to explode.  It's a frantic energy, unsettling and exhausting. I need music to help ground me – something fast-paced but with a steady, driving beat, maybe in a minor key to reflect this unease.\n"
+    },
+    {
+        "mood_215": "Serenity",
+        "text_215": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind races with \"what ifs\" and worst-case scenarios.  A low, throbbing bassline would capture this feeling, maybe something dissonant and building in intensity.  I need something to ground me, but it has to reflect this frantic energy.  It needs to be dark, but with a driving rhythm to match my inner turmoil.\n"
+    },
+    {
+        "mood_216": "Terror",
+        "text_216": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like someone's squeezing the air out of me.  Thoughts race, a chaotic jumble I can't untangle.  Everything feels urgent, pressing down. I need music to slow it all down, something with a slow tempo and a calming timbre, maybe in a minor key.\n"
+    },
+    {
+        "mood_217": "Fantasy",
+        "text_217": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts.  My chest feels tight, and I'm on edge, waiting for something to happen.  I need music to ground me, something with a steady beat but not too intense, maybe a minor key with a repetitive, calming rhythm.  Something to slow my racing heart.\n"
+    },
+    {
+        "mood_218": "Rage",
+        "text_218": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million worries.  It feels like a swarm of bees buzzing in my head, never settling. I need something to ground me, maybe a slow, repetitive rhythm with a calming timbre – something to help me breathe.  A low, steady drone would be perfect, I think.\n"
+    },
+    {
+        "mood_219": "Emotional vertigo",
+        "text_219": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  My heart races, and my mind races faster, jumping from worry to worry.  I need something to ground me, something slow and repetitive maybe, to calm the chaos.  Something calming but with a powerful undercurrent, would that be possible?\n"
+    },
+    {
+        "mood_220": "Uncontrollable anger",
+        "text_220": "{mood: Anxious, on edge}\n\nI can't seem to settle, my mind racing with a million thoughts all at once.  My chest feels tight, and I'm constantly fidgeting.  It's like a storm brewing inside, waiting to explode. I need something frantic, maybe a fast tempo with dissonant chords to match this feeling.\n"
+    },
+    {
+        "mood_221": "Evocation of memories",
+        "text_221": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something calming yet intense, maybe a fast tempo but with a repetitive, soothing melody.  A cello's melancholic tone might help, something that acknowledges the anxiety without getting lost in it.\n"
+    },
+    {
+        "mood_222": "Love",
+        "text_222": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  My chest feels tight, and I'm on edge, constantly anticipating something bad.  It's a frantic energy, like a storm brewing inside.  I need music that matches this frenetic pace – something dissonant, maybe fast and intense, to help me release this tension.\n"
+    },
+    {
+        "mood_223": "Uncontrollable anger",
+        "text_223": "Overwhelmed.  A cacophony of thoughts and anxieties, a constant, jarring rhythm in my head.  I need music to slow it down, something with a slow tempo, maybe minor key, to ground me.  Something ambient, to soothe the frantic energy.\n"
+    },
+    {
+        "mood_224": "Motivation",
+        "text_224": "{mood: Anxious, on edge}\n\nI can't shake this feeling of unease, like something bad is about to happen. My heart is racing, and my mind is racing even faster, jumping from one worry to the next.  I need something to ground me, something with a steady beat but not too slow, maybe a driving rhythm with a slightly dissonant harmony to reflect the chaos in my head.  Something intense, but not overwhelming.\n"
+    },
+    {
+        "mood_225": "Skepticism",
+        "text_225": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million things, all at once.  My chest feels tight, like I'm holding my breath, and my heart is a frantic drum solo. I need something to ground me, maybe a slow, repetitive melody with a low, calming timbre to help slow my heart rate.  Something to bring me back to earth.\n"
+    },
+    {
+        "mood_226": "Oneirism (dream-like state)",
+        "text_226": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one thought to the next.  Everything feels amplified, every sound, every shadow. I need something to ground me, something soothing yet driving, maybe a fast tempo but with a calming, repetitive rhythm.  It needs to be instrumental, nothing with lyrics to add to the mental noise.\n"
+    },
+    {
+        "mood_227": "Revenge",
+        "text_227": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, ready to snap at any moment.  My heart races, and my mind races even faster, jumping from one worry to another.  Everything feels amplified, the sounds, the light, even my own breathing.  I need something to ground me, maybe something slow and repetitive, with a low, steady drone to calm this frantic energy.\n"
+    },
+    {
+        "mood_228": "Serenity",
+        "text_228": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, both big and small.  My body feels tense, like a coiled spring about to snap.  It's a frantic energy that keeps me from relaxing. I need something fast-paced, maybe dissonant, to match this feeling of unease – something that can release this tension.\n"
+    },
+    {
+        "mood_229": "Expectation",
+        "text_229": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, none of them making sense.  A feeling of impending doom hangs over me, making everything feel urgent and overwhelming.  I need something to ground me, something with a driving beat, maybe minor key to match the tension, but with a steady pulse to keep me from completely unraveling.  It needs to be intense, but controlled, like a storm building but not yet breaking.\n"
+    },
+    {
+        "mood_230": "Agitation",
+        "text_230": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and my thoughts are scattered, a whirlwind of \"what ifs.\" It's exhausting trying to keep it all together.  I need music that matches this frantic energy, something fast and dissonant, maybe in a minor key to reflect the tension.\n"
+    },
+    {
+        "mood_231": "Hypnosis",
+        "text_231": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all jumbled and chaotic.  My chest feels tight, and I'm constantly fidgeting.  It's like a storm inside me, relentless and unpredictable.  I need music to match – something fast, dissonant, maybe with a driving, irregular rhythm to mirror this feeling.\n"
+    },
+    {
+        "mood_232": "Boredom",
+        "text_232": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me before I can catch my breath.  My chest is tight, my mind racing, a whirlwind of worries.  I need something to ground me, something slow and repetitive, maybe a drone-like texture to calm the chaos.  Something in a minor key, but with a hopeful, distant resolution.\n"
+    },
+    {
+        "mood_233": "Pride",
+        "text_233": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million things.  A low hum of unease is constantly there, a feeling of impending doom I can't quite shake.  I need something fast-paced, maybe even dissonant, to match this internal chaos – something that will help me process all this energy.  Something abrasive and urgent,  to mirror the feeling of being trapped in my own head.\n"
+    },
+    {
+        "mood_234": "Illusion",
+        "text_234": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with worries, big and small, all swirling together.  My body feels tense, like a coiled spring ready to snap.  I need something to ground me, something with a steady beat but maybe a little dissonance to reflect the chaos inside.  Perhaps a driving rhythm, something intense but not overwhelming, in a minor key.\n"
+    },
+    {
+        "mood_235": "Terror",
+        "text_235": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like someone's squeezing the air out of me.  Everything feels urgent, and I can't seem to focus on anything.  It's a chaotic whirlwind of thoughts and worries. I need music that's fast, dissonant, and builds in intensity – something to match the frantic pace of my mind.\n"
+    },
+    {
+        "mood_236": "Panic",
+        "text_236": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all swirling together.  It feels like a pressure building up inside, making my chest tight.  I need something to ground me, something with a strong, steady beat but also a bit of chaos to mirror this feeling. Perhaps something dissonant yet resolving,  a fast tempo.\n"
+    },
+    {
+        "mood_237": "Inspiration",
+        "text_237": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and chaotic.  My heart hammers against my ribs, a frantic drumbeat. I need something to ground me, maybe something slow and repetitive, but with a driving, insistent beat to match the energy inside. Something dark and minor key would capture this perfectly.\n"
+    },
+    {
+        "mood_238": "Rage",
+        "text_238": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, a whirlwind of \"what ifs\" and worries.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something with a steady, repetitive rhythm, maybe slow and melancholic to calm this internal storm.  Something soothing, yet powerful enough to cut through the anxiety.\n"
+    },
+    {
+        "mood_239": "Sorrow",
+        "text_239": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  My heart pounds a frantic rhythm against my ribs, and I feel this constant pressure building.  It's like being trapped in a speeding car, unable to brake.  I need music that reflects this frantic energy, something fast and dissonant, maybe with a driving, relentless beat.\n"
+    },
+    {
+        "mood_240": "Evocation of memories",
+        "text_240": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, big and small.  This restless energy is making me fidget, I feel trapped inside my own head.  I need something to ground me, maybe something fast-paced but with a repetitive rhythm to help focus my racing thoughts; something dissonant but resolving to provide a sense of release.\n"
+    },
+    {
+        "mood_241": "Envy",
+        "text_241": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all at once.  My chest feels tight, and I just want to pace.  It's a frantic energy I can't control; I need something fast, maybe dissonant, to match the chaos.  Something that reflects this jittery feeling, sharp and high-pitched.\n"
+    },
+    {
+        "mood_242": "Emptiness",
+        "text_242": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I just want to run, to escape this feeling. I need something fast, something dissonant maybe, to match the chaotic energy inside me. A driving beat, something urgent.\n"
+    },
+    {
+        "mood_243": "Panic",
+        "text_243": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all colliding and leaving me breathless.  It's a pressure in my chest, a constant hum of unease. I need something fast-paced, maybe dissonant at times, to match this chaotic energy.  Something to help me process it all before it consumes me entirely.\n"
+    },
+    {
+        "mood_244": "Panic",
+        "text_244": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind is racing, jumping from one worry to the next.  Everything feels amplified, every sound, every shadow.  My chest feels tight, like I'm trying to breathe underwater.  I need something fast, maybe chaotic even, but with a driving beat to channel this energy, something in a minor key.\n"
+    },
+    {
+        "mood_245": "Emotional vertigo",
+        "text_245": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing a mile a minute.  Everything feels heightened, like I'm waiting for the other shoe to drop.  It's a frantic energy, a nervous hum beneath the surface. I need music to match that frantic energy; something fast, dissonant, maybe even a bit abrasive – but with a driving rhythm to help channel this.\n"
+    },
+    {
+        "mood_246": "Perplexity",
+        "text_246": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind is racing, jumping from one thought to the next.  A low, throbbing bassline would capture this feeling of unease, maybe something dissonant and building in intensity.  It needs to be fast, frantic, reflecting this restless energy. I need something to help ground me.\n"
+    },
+    {
+        "mood_247": "Fear",
+        "text_247": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, and my body feels tense.  Everything feels amplified, sounds and sensations overwhelming. I need something to ground me, something calming yet driving, maybe a repetitive, steady beat with a low, resonant timbre to soothe my frayed nerves.  A slow tempo, but with a building intensity.\n"
+    },
+    {
+        "mood_248": "Sense of discovery",
+        "text_248": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million thoughts, none of them calming.  My chest feels tight, like I'm trapped inside myself.  I need something to ground me, something fast-paced but with a driving beat, maybe dissonant chords to match the chaos.  Something sharp and intense, to cut through this feeling of being overwhelmed.\n"
+    },
+    {
+        "mood_249": "Doubt",
+        "text_249": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all jumbled together.  My heart pounds in my chest, a frantic drumbeat against my ribs.  I need something to ground me, something soothing yet powerful.  Maybe a slow, repetitive melody in minor key, something that gradually builds in intensity but doesn't overwhelm.\n"
+    },
+    {
+        "mood_250": "Curiosity",
+        "text_250": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, blurring into one another.  Everything feels urgent, even though nothing truly is.  It's a frantic energy, like a trapped bird.  I need something fast and dissonant, maybe a chaotic string section to match the turmoil inside.\n"
+    },
+    {
+        "mood_251": "Boredom",
+        "text_251": "{mood: Anxious, on edge}\n\nI feel like a tightly wound spring, about to snap.  My heart races, and my mind is a whirlwind of \"what ifs.\"  Everything feels amplified, every sound too loud, every shadow a threat. I need music to help me ground myself—something slow, repetitive, maybe with a drone to anchor me.\n"
+    },
+    {
+        "mood_252": "Happiness",
+        "text_252": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, about to snap.  My heart races, and my mind is a whirlwind of \"what ifs.\"  Everything feels amplified, even the quietest sounds. I need something to calm the chaos – perhaps slow, ambient music with a low, steady pulse to ground me.\n"
+    },
+    {
+        "mood_253": "Sadness",
+        "text_253": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I just want to run, to escape this feeling.  I need something fast-paced, maybe with a driving beat and dissonant chords to match the chaos in my head. Something that lets the anxiety out, not something that soothes it.\n"
+    },
+    {
+        "mood_254": "Pride",
+        "text_254": "Overwhelmed.  Everything feels like too much, a chaotic rush of noise and demands. My head is spinning, my chest tight. I need something to ground me, something slow and repetitive, maybe with a droning bass to anchor the feeling of being lost in the storm.\n"
+    },
+    {
+        "mood_255": "Defeat",
+        "text_255": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, none of them making sense.  Everything feels heightened, colors are too bright, sounds too loud.  I need something to ground me, something calming but with a strong beat to match the energy inside. Maybe something in a minor key, but with a driving rhythm.\n"
+    },
+    {
+        "mood_256": "Inner peace",
+        "text_256": "{mood: Anxious, restless}\n\nI can't seem to settle down; my mind is racing, jumping from one worry to the next.  Everything feels amplified, sounds are too loud, and my heart is pounding. I need something to ground me, maybe something repetitive and calming, but with a driving beat underneath to match the energy.  Something dark but not too heavy.\n"
+    },
+    {
+        "mood_257": "Oneirism (dream-like state)",
+        "text_257": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind racing with a million thoughts, each one a tiny spark of worry.  My chest feels tight, and I just want to run, to escape this feeling.  It’s like a frantic, dissonant melody playing on repeat in my head.  I need something fast, intense, maybe even a little chaotic, to match the storm inside.\n"
+    },
+    {
+        "mood_258": "Happiness",
+        "text_258": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all tangled up.  My chest feels tight, and I just want to run, to escape this feeling.  It’s a frantic energy, a desperate need for release. I need music – something fast, chaotic even, but with a driving beat to help me channel this energy.\n"
+    },
+    {
+        "mood_259": "Nostalgia for the future",
+        "text_259": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with worries, big and small.  Everything feels amplified, my heart pounds, and I'm on edge.  I need something to ground me, maybe something slow and repetitive, with a low, steady drone to calm the chaos.  Something in minor key, please, to match the intensity.\n"
+    },
+    {
+        "mood_260": "Hopelessness",
+        "text_260": "{mood: Anxious, restless}\n\nI can't seem to settle down; my mind races with a thousand thoughts, all tangled up and overwhelming.  My heart beats like a drum solo, a frantic rhythm that won't slow. I need something to ground me, maybe a slow, repetitive melody with a calming, low timbre to soothe my racing thoughts.  A drone-like sound, perhaps, to help me find some stillness.\n"
+    },
+    {
+        "mood_261": "Serenity",
+        "text_261": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all jumbled and chaotic.  My heart pounds a frantic rhythm against my ribs, and I feel this constant, low-level tension.  I need something to ground me, something with a strong, steady beat but maybe some dissonances to mirror the unease. Perhaps a driving rhythm in a minor key would help?\n"
+    },
+    {
+        "mood_262": "Existential doubt",
+        "text_262": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's being squeezed, and my mind is racing a million miles an hour.  I can't seem to focus on anything, everything feels urgent and important all at once.  It's a chaotic mess inside. I need something to slow it down—maybe slow, dissonant strings, something that acknowledges the unease but doesn't amplify it.\n"
+    },
+    {
+        "mood_263": "Delirium",
+        "text_263": "Input (Mood: Anxious, restless):\n\nI can't seem to settle, my mind races with a million thoughts, none of them making sense.  My chest feels tight, and I'm constantly fidgeting.  It's like a storm inside, chaotic and unpredictable. I need music to help calm this; something fast-paced initially, maybe even dissonant, to release the tension, then slowly slowing down to a peaceful resolution.\n"
+    },
+    {
+        "mood_264": "Satisfaction",
+        "text_264": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, even though nothing is immediately wrong.  It’s a constant low hum of dread. I need music that mirrors this, something fast and dissonant, maybe with a driving, frantic rhythm.\n"
+    },
+    {
+        "mood_265": "Optimism",
+        "text_265": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and chaotic.  A low, throbbing bassline would capture the unease, maybe with high-pitched strings cutting through like frantic thoughts.  The tempo needs to be fast, relentless, mirroring the feeling of being trapped in my head. I need something to release this pressure.\n"
+    },
+    {
+        "mood_266": "Evocation of memories",
+        "text_266": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and my mind races faster.  Everything feels amplified, sounds and colors too intense.  I need something fast-paced to match this internal storm, maybe something dissonant but with a driving rhythm to channel this energy.\n"
+    },
+    {
+        "mood_267": "Pride",
+        "text_267": "{mood: Anxious, restless}\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and chaotic.  My heart pounds a frantic rhythm against my ribs, a constant, unsettling drumbeat.  I need something to ground me, something with a driving, repetitive beat, maybe in a minor key, to help channel this energy.  Something intense but controlled, a cathartic release.\n"
+    },
+    {
+        "mood_268": "Anguish",
+        "text_268": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all jumbled and chaotic.  My heart hammers against my ribs, a frantic drumbeat against the silence.  I need something to ground me, something with a steady, driving beat, maybe a minor key to match this unease.  Something intense, yet repetitive, to help me focus and calm this storm inside.\n"
+    },
+    {
+        "mood_269": "Philosophical wonder",
+        "text_269": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like a swarm of bees buzzing just beneath my skin.  My heart races, and my mind races faster, jumping from one worry to the next.  It's overwhelming, this constant tension. I need music that reflects this frantic energy, something dissonant and fast, maybe with sharp, staccato notes.\n"
+    },
+    {
+        "mood_270": "Satisfaction",
+        "text_270": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worries.  A low, throbbing bassline would match the tension in my chest.  I need something fast-paced, maybe chaotic even, to mirror this frantic energy.  Something dissonant, maybe, to reflect the unsettling feeling.\n"
+    },
+    {
+        "mood_271": "Perplexity",
+        "text_271": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with \"what ifs\" and worst-case scenarios.  My heart pounds a frantic rhythm against my ribs, and my breath catches in my throat.  I need something to ground me, something with a steady beat but not too slow; maybe something repetitive and calming, in a minor key.  A simple melody would be best – nothing too overwhelming.\n"
+    },
+    {
+        "mood_272": "Emotional fluctuation",
+        "text_272": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me with more urgency.  My chest feels tight, my breath shallow.  It's a frantic energy, a chaotic mess.  I need music that matches that frantic pace – something fast, dissonant, maybe even a little abrasive to match the turmoil.\n"
+    },
+    {
+        "mood_273": "Oneirism (dream-like state)",
+        "text_273": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Too many thoughts are racing, a whirlwind of worries and \"what ifs\".  I need something to ground me, to slow the frantic pace.  Maybe something slow and repetitive, with a calming, low timbre and a steady, predictable rhythm would help.\n"
+    },
+    {
+        "mood_274": "Surrealism",
+        "text_274": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of to-dos, each wave crashing over me harder than the last. My chest is tight, my mind racing, and I can barely breathe.  I need something to calm the storm inside – maybe something slow, repetitive, and quiet, with a low, steady drone to ground me.  Something...ambient.\n"
+    },
+    {
+        "mood_275": "Shock",
+        "text_275": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's about to burst.  Thoughts are racing, a chaotic jumble I can't seem to untangle.  Everything feels urgent, and I'm drowning in a sea of \"what ifs.\"  I need something dissonant, fast-paced, maybe a frantic violin solo to match the storm inside.\n"
+    },
+    {
+        "mood_276": "Paranoia",
+        "text_276": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my skin.  Thoughts are racing, a whirlwind of worries I can't seem to control.  Everything feels urgent, even though nothing is really happening. I need music to slow it down, something slow and repetitive, maybe with a droning bass to ground me.\n"
+    },
+    {
+        "mood_277": "Emptiness",
+        "text_277": "Overwhelmed.  A chaotic mess of emotions, swirling and colliding.  I need something to ground me, something with a strong, steady beat but with a melancholic undertone – maybe a minor key?  Something intense but not aggressive, a cathartic release.\n"
+    },
+    {
+        "mood_278": "Envy",
+        "text_278": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  A low, throbbing unease sits in my chest, making my breath shallow and quick.  It feels like a storm brewing inside, threatening to break. I need music that matches this frenetic energy, something fast and dissonant, maybe in a minor key, to help release it.\n"
+    },
+    {
+        "mood_279": "Melancholy",
+        "text_279": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with \"what ifs\" and worries.  A tight feeling in my chest won't let go, making even simple tasks feel overwhelming.  I need something to ground me, maybe something with a driving beat but not too harsh, a repetitive rhythm to calm the chaos.  Something in minor key, perhaps, to acknowledge the anxiety without dwelling on it.\n"
+    },
+    {
+        "mood_280": "Fear",
+        "text_280": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like someone's squeezing the air from my lungs.  Everything feels urgent, a million things demanding my attention at once.  It's a chaotic mess, a whirlwind of thoughts and worries. I need music that mirrors this - fast, dissonant, maybe even a little abrasive to release this pressure.\n"
+    },
+    {
+        "mood_281": "Grief",
+        "text_281": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind racing with a million thoughts, all jumbled up and overwhelming.  My heart is pounding, a constant drum against my ribs.  I need something to ground me, something with a strong, steady beat, maybe a driving rhythm to match the frantic energy inside.  Something repetitive but intense, almost frantic, to help channel this feeling.\n"
+    },
+    {
+        "mood_282": "Surrealism",
+        "text_282": "Input (Mood: Anxious, overwhelmed):\n\nI feel like I'm drowning in a sea of tasks and worries, each wave crashing over me harder than the last.  My chest feels tight, my mind racing, a constant hum of unease. I need something to ground me, something slow and repetitive, maybe in minor key, to help calm the chaos.  Something with a steady beat, a comforting drone.\n"
+    },
+    {
+        "mood_283": "Emptiness",
+        "text_283": "Input (Mood: Anxious, on edge):\n\nI feel like a coiled spring, ready to snap at any moment.  My heart is pounding, and I can't seem to settle down.  Everything feels heightened and intense, every little noise jumps out at me. I need something to calm my nerves – maybe something slow, ambient, with low, calming tones and a very slow tempo.\n"
+    },
+    {
+        "mood_284": "Disappointment",
+        "text_284": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all at once.  A tight feeling in my chest makes it hard to breathe, and I'm on edge, constantly anticipating something bad. I need music to calm the storm – something fast-paced initially, maybe a driving beat, but then slowing down to a more soothing, minor key melody.\n"
+    },
+    {
+        "mood_285": "Agitation",
+        "text_285": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all at once.  My chest feels tight, and I keep fidgeting.  It's a frantic energy, almost painful.  I need something fast, something chaotic but with a driving beat to help me release this tension, maybe in a minor key.\n"
+    },
+    {
+        "mood_286": "Restlessness",
+        "text_286": "Overwhelmed.  A tidal wave of things to do, deadlines looming, and I'm drowning in the noise.  My head is pounding, a frantic rhythm I can't escape.  I need something intense, maybe a driving industrial track to match the chaos – something harsh but cathartic.\n"
+    },
+    {
+        "mood_287": "Revenge",
+        "text_287": "{mood: Anxious, restless}\n\nI can't seem to settle, my mind is racing with a million thoughts, all tumbling over each other.  My heart is pounding, a frantic drumbeat against my ribs. I need something to ground me, something with a steady, repetitive rhythm, maybe a slow tempo and dark minor key to match this unease.  Something heavy, but not overwhelmingly so.\n"
+    },
+    {
+        "mood_288": "Surrealism",
+        "text_288": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  Everything feels like it's on the verge of happening, and I'm trapped in a cycle of anticipation.  I need something to ground me, something with a driving beat but not too harsh – maybe a repetitive, almost hypnotic rhythm.  Something to calm the storm inside.\n"
+    },
+    {
+        "mood_289": "Existential doubt",
+        "text_289": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, all at once.  A constant low hum of unease vibrates through me, making me jumpy and on edge. I need music to ground me – something repetitive, maybe in a minor key, but with a steady beat to help me focus.  Something with a driving rhythm, please, to match the feeling of my heart pounding.\n"
+    },
+    {
+        "mood_290": "Remorse",
+        "text_290": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind races with a million thoughts, all jumbled and chaotic.  My heart pounds a frantic rhythm against my ribs, a constant, unsettling drumbeat.  It feels like I'm trapped in a whirlwind, desperately searching for a way out. I need music that matches this frenetic energy, something fast, dissonant, maybe even a little abrasive to match the feeling.\n"
+    },
+    {
+        "mood_291": "Guilt",
+        "text_291": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen. My heart races, and my mind races even faster, jumping from one worry to the next.  It's a relentless, high-pitched hum in my chest.  I need music that matches this frantic energy, something dissonant and fast, maybe in a minor key, to help me process it.\n"
+    },
+    {
+        "mood_292": "Caution",
+        "text_292": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small, a constant hum of unease.  Everything feels heightened, colors sharper, sounds louder, my heart beats too fast.  I need something to ground me, something with a steady beat, maybe a repetitive motif, but with a slightly melancholic undertone—something calming but not slow.  Something to help me find my center, please.\n"
+    },
+    {
+        "mood_293": "Sadness",
+        "text_293": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, each one louder than the last.  My heart pounds against my ribs, a frantic drumbeat.  I need something to ground me, something with a steady, repetitive rhythm, maybe a low, droning bassline to calm the chaos.  Something dark and intense but not abrasive;  think minor key, slow tempo, but powerful.\n"
+    },
+    {
+        "mood_294": "Gratitude",
+        "text_294": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with a million thoughts, all buzzing around like angry bees.  My chest feels tight, and I'm on edge, constantly anticipating something bad.  I need something to calm the storm inside, maybe something with a slow, steady beat and calming, low-pitched instruments. Something with a repetitive pattern to ground me.\n"
+    },
+    {
+        "mood_295": "Distress",
+        "text_295": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  A constant hum of unease vibrates through me, making it hard to focus. I need something to ground me, something with a strong, steady beat but also some dissonance to reflect the chaos.  Maybe a driving rhythm with slightly off-kilter harmonies would help.\n"
+    },
+    {
+        "mood_296": "Shame",
+        "text_296": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down; my mind races with worries, big and small.  My chest feels tight, and I just need to move, to distract myself from this feeling of impending doom.  I need music to ground me – something with a driving beat but not too intense, maybe a steady, repetitive rhythm to help calm my racing thoughts.  Something melancholic but not depressing, please.\n"
+    },
+    {
+        "mood_297": "Helplessness",
+        "text_297": "{mood: Anxious, on edge}\n\nI feel like a tightrope walker, constantly teetering on the edge of something.  My heart races, a frantic drumbeat against my ribs.  I need music that reflects this unease – something fast-paced, maybe dissonant, with sharp, piercing instruments.  It needs to capture this feeling of impending doom, but also the adrenaline that keeps me going.\n"
+    },
+    {
+        "mood_298": "Motivation",
+        "text_298": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races, jumping from one worry to the next.  A low, throbbing bassline would capture this feeling, maybe something discordant, building in intensity.  It needs to be fast, frantic even, reflecting this constant unease.  I need something to ground me, but also to express this chaotic energy.\n"
+    },
+    {
+        "mood_299": "Confidence",
+        "text_299": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still; my mind races with worries, big and small.  A low hum of unease vibrates beneath my skin, a constant tension.  I need something to ground me, maybe a slow, repetitive rhythm with a somber cello to help calm the chaos.  Something dark but comforting, please.\n"
+    },
+    {
+        "mood_300": "Satisfaction",
+        "text_300": "Input (Mood: Anxious, restless):\n\nI can't seem to settle down, my mind is racing with a million thoughts all at once.  Everything feels amplified, even the quiet hum of the refrigerator is driving me crazy.  I need something to ground me, something with a steady beat maybe, but not too loud, or it'll just make me more frantic.  A repetitive, almost hypnotic rhythm, in a minor key would help, I think.\n"
+    }
+]

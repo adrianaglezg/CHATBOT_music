@@ -1,0 +1,22 @@
+[
+    {
+        "mood_1": "Perplexity",
+        "text_1": "Input (Mood: Anxious, overwhelmed):\n\nMy chest feels tight, like it's trying to burst out of my skin.  Everything feels urgent, and I can't seem to focus on anything.  The noise is deafening, even when it's quiet. I need music to slow it down, something dark but calming, maybe in a minor key with a slow, steady tempo and a soft, mellow timbre.\n"
+    },
+    {
+        "mood_2": "Ambivalence",
+        "text_2": "Input (Mood: Anxious, on edge):\n\nI can't shake this feeling of unease, like something bad is about to happen.  My heart races, and my mind won't stop racing.  It's a constant low hum of dread.  I need music that's fast, dissonant, maybe some atonal jazz—something to match the chaotic feeling in my head.\n"
+    },
+    {
+        "mood_3": "Fantasy",
+        "text_3": "Input (Mood: Anxious, restless):\n\nI can't seem to sit still, my mind racing with a million thoughts, all of them blurry and indistinct.  A low thrumming anxiety vibrates beneath my skin, making even small tasks feel overwhelming.  I need something to ground me, maybe a repetitive rhythm, something slow but driving, to match the frantic energy inside.  Something in minor key, perhaps, with a building intensity that eventually releases.\n"
+    },
+    {
+        "mood_4": "Euphoria",
+        "text_4": "{mood: Anxious, on edge}\n\nI can't shake this feeling of unease, a constant hum of anxiety beneath the surface.  My heart races, even when nothing's happening.  It's like waiting for a shoe to drop, except I don't know which shoe, or when. I need something fast-paced, maybe dissonant, to match the chaos in my head; something sharp and intense, but not too loud.\n"
+    },
+    {
+        "mood_5": "Perplexity",
+        "text_5": "Overwhelmed.  Everything feels like too much, a chaotic rush of noise and demands.  I need something to ground me, something slow and repetitive, maybe in a minor key, to help calm the storm inside.  Something with a steady, strong beat to anchor me.\n"
+    }
+]
